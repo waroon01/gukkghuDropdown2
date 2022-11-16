@@ -1,6 +1,6 @@
 /*!
- * Dropdown list by WaroonRat Thailand v2.0.0: credit 
- * (c) 2022 gukkghu Mr Waroonporn Rattanbutchai
+ * Dropdown list by WaroonRat Thailand v2.0.0:  
+ * (c) 2022 ผู้พัฒนา gukkghu Mr Waroonporn Rattanbutchai
  * letast update V 01.001 16/11/2022 Thank You! 
  * 
  */
